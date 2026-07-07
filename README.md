@@ -13,19 +13,19 @@ Raw data ──► 1. Clean & verify (Excel) ──► 2. Explore & diagnose (Ex
 
 ## The Projects
 
-### [01 — Data Cleaning & Preparation](./01-data-cleaning-excel/) · Excel
+### [Project_1_Data_Cleaning](./01-data-cleaning-excel/) · Excel
 Audited the raw dataset for missing values, duplicates, and format errors; resolved every issue through a documented, reversible workflow (raw backup → clean copy → change log CR001–CR009 → verification gate). Key decision: 309 missing coupon codes (25.8% of records) imputed as `NO_COUPON` through business logic rather than deleted.
 **Result: verification gate PASS — 0 duplicate IDs, 0 invalid dates, 0 blanks, 0 calculation mismatches, 0 records lost.**
 
-### [02 — Exploratory Data Analysis](./02-eda-excel/) · Excel
+### [Project_2_EDA](./02-eda-excel/) · Excel
 Five-phase EDA: descriptive statistics, category breakdowns, 30-month trend, IQR outlier detection, and correlation — every finding passed through the "So What?" test.
 **Headline: 41.4% of all order value ends Cancelled or Returned (£519,674 at risk) — more than the business actually realises through completed orders.** Also: right-skewed order values (median £824 vs mean £1,054), flat ~£42K/month revenue, Instagram the strongest channel, coupons showing no effect on basket size.
 
-### [03 — SQL Data Analysis](./03-sql-analysis/) · SQL Server 2022
+### [Project_3_SQL_Analysis](./03-sql-analysis/) · SQL Server 2022
 Re-derived the key findings in T-SQL — SELECT, WHERE, ORDER BY, GROUP BY, COUNT/SUM/AVG, and HAVING — against the imported `dbo.Orders` table, with SSMS execution evidence.
 **Result: 8 of 8 checks reconciled exactly with the Excel EDA — row counts, the returned-orders segment (247), the full top-10 order list, and the penny-exact product revenue ranking. Two tools, one truth.**
 
-### [04 — Data Visualization](./04-powerbi-dashboard/) · Power BI
+### [Project_4_PowerBI_Dashboard](./04-powerbi-dashboard/) · Power BI
 A 5-page Sales Performance Dashboard on four DAX measures (Total Revenue, Total Orders, Avg Order Value, Return Rate), built to the brief's three pillars — chart-to-question matching, maximum data-ink, and action-title storytelling — plus a root-cause diagnosis for every headline finding.
 **Key diagnosis: 1,189 unique customers across 1,200 orders — a repeat-purchase rate under 1%. The business runs on one-time buyers; retention, not acquisition, is the untapped growth lever.**
 
