@@ -18,8 +18,9 @@ Re-derive the key findings of Project 2 through structured SQL queries — and r
 **8 of 8 checks reconciled (100%)** between SQL and the Project 2 EDA — row count, returned-order count, the full top-10 list, and the complete product revenue ranking. Any discrepancy would have indicated an import fault or formula error; there were none.
 
 ## Files
-- `Project_3_SQL_Analysis_Report.pdf` — full report with all queries, results, execution screenshots, and the cross-validation table
-- `Data_Analytics_Project.sql` — the complete script
+### [Project_3_SQL_Analysis_Report.pdf] (Project_3_SQL_Analysis_Report.pdf) — full report with all queries, results, execution screenshots, and the cross-validation table
+###[Data_Analytics_Project.sql] (Data_Analytics_Project.sql) — the complete script
+### [README.md](README.md) - the highlight of the project
 
 ## Skills Demonstrated
 SELECT / WHERE / ORDER BY / GROUP BY / HAVING · aggregations (COUNT, SUM, AVG) · in-database data correction (UPDATE/ROUND) · SQL logical execution order · cross-tool result reconciliation
