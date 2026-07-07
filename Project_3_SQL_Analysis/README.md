@@ -19,8 +19,8 @@ Re-derive the key findings of Project 2 through structured SQL queries — and r
 
 ## Files
 ### [Project_3_SQL_Analysis_Report.pdf] (Project_3_SQL_Analysis_Report.pdf) — full report with all queries, results, execution screenshots, and the cross-validation table
-###[Data_Analytics_Project.sql] (Data_Analytics_Project.sql) — the complete script
-### [README.md](README.md) - the highlight of the project
+### [Data_Analytics_Project.sql] (Data_Analytics_Project.sql) — the complete script
+### [README.md] (README.md) - the highlight of the project
 
 ## Skills Demonstrated
 SELECT / WHERE / ORDER BY / GROUP BY / HAVING · aggregations (COUNT, SUM, AVG) · in-database data correction (UPDATE/ROUND) · SQL logical execution order · cross-tool result reconciliation
