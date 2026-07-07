@@ -32,9 +32,9 @@ The report goes beyond describing the visuals to explain **why** each pattern ex
 8 of 8 dashboard figures reconcile with Projects 1–3 — KPIs, product ranking, status mix, coupon parity, and monthly extremes all trace back through SQL and Excel to the verified source dataset.
 
 ## Files
-- `Project_4_PowerBI_Report.pdf` — full report: dashboard pages, design decisions mapped to the brief's three pillars, root-cause diagnosis, and recommendations
-- `DecodeLabs_Project4_Dashboard.pbix` — the interactive dashboard (open in Power BI Desktop)
-- `Project_4_Power_BI.pdf` — static PDF export of all five dashboard pages
+- [DecodeLabs_Project4_Dashboard.pbix](DecodeLabs_Project4_Dashboard.pbix) — the interactive dashboard (open in Power BI Desktop)
+- [Project_4_PowerBI_Report.pdf](Project_4_PowerBI_Report.pdf) — full report: dashboard pages, design decisions mapped to the brief's three pillars, root-cause diagnosis, and recommendations
+- [Project_4_Power_BI.pdf](Project_4_Power_BI.pdf) — static PDF export of all five dashboard pages
 
 ## Skills Demonstrated
 Power BI · DAX measures (SUM, COUNTROWS, DIVIDE patterns) · KPI card design · chart selection · data-ink ratio & direct labeling · conditional formatting · data storytelling (SCR framework) · root-cause analysis & recommendation writing
