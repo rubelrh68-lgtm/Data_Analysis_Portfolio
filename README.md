@@ -61,4 +61,4 @@ Each folder's README gives the project summary; each PDF report contains the ful
 
 I'm Rubel Hasan — MSc Business Intelligence & Analytics candidate (University of Huddersfield) with 8+ years of experience in customs, VAT, and finance operations, now applying that domain grounding to data analytics. This repository is my submission for the DecodeLabs Industrial Training Programme, Batch 2026.
 
-📫 Connect on [LinkedIn](#) <!-- add your LinkedIn URL -->
+📫 Connect on [LinkedIn](#) <linkedin.com/in/rubel-hasan-877035320>
