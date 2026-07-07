@@ -23,7 +23,8 @@ A four-stage workflow modelled on professional practice:
 
 ## Files
 - [Project_1_Data_Cleaning_Report.pdf](Project_1_Data_Cleaning_Report.pdf) — full report with methodology, cleaning log, and verification results
--[Data Analytics Project 1.xlsx](Data Analytics Project 1.xlsx) Workbook (Raw_Backup / Cleaned_Dataset / Log_Sheet) — dataset provided by DecodeLabs
+-[Data_Analytics_Project_1.xlsx](Data_Analytics_Project_1.xlsx) Workbook (Raw_Backup / Cleaned_Dataset / Log_Sheet) — dataset provided by DecodeLabs
+- [REAMME.md](README.md) - for highlight the overall project
 
 ## Skills Demonstrated
 Data auditing · missing-value strategy (imputation vs deletion) · Remove Duplicates & COUNTIF audits · cross-field validation · change-log documentation · verification-gated workflow
