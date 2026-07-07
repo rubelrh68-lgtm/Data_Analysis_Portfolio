@@ -22,8 +22,8 @@ A four-stage workflow modelled on professional practice:
 **Verification gate: PASS** — 0 duplicate IDs · 0 incorrectly formatted dates · 0 blank cells · 0 calculation mismatches.
 
 ## Files
-- `Project_1_Data_Cleaning_Report.pdf` — full report with methodology, cleaning log, and verification results
-- Workbook (Raw_Backup / Cleaned_Dataset / Log_Sheet) — dataset provided by DecodeLabs
+- [Project_1_Data_Cleaning_Report.pdf](Project_1_Data_Cleaning_Report.pdf) — full report with methodology, cleaning log, and verification results
+-[Data Analytics Project 1.xlsx](Data Analytics Project 1.xlsx) Workbook (Raw_Backup / Cleaned_Dataset / Log_Sheet) — dataset provided by DecodeLabs
 
 ## Skills Demonstrated
 Data auditing · missing-value strategy (imputation vs deletion) · Remove Duplicates & COUNTIF audits · cross-field validation · change-log documentation · verification-gated workflow
