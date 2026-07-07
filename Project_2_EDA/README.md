@@ -15,8 +15,9 @@ Interrogate the cleaned dataset to uncover patterns, trends, and outliers — an
 5. **Correlation** — ItemsInCart vs Quantity r = 0.65; cart-building features are a plausible order-size lever
 
 ## Files
-- `Project_2_EDA_Report.pdf` — full report with all statistics, breakdowns, 7 charts, observations, and recommendations
-- Workbook — descriptive statistics, category pivots, monthly trend, outlier analysis, and key observations sheets
+- [Data_Analytics_Project_2.xlsx](Data_analytics_Project_2.xlsx) — descriptive statistics, category pivots, monthly trend, outlier analysis, and key observations sheets
+- [Project_2_EDA-Report.pdf](Project_2_EDA_Report.pdf) — full report with all statistics, breakdowns, 7 charts, observations, and recommendations
+
 
 ## Skills Demonstrated
 Descriptive statistics · five-number summary · mean-vs-median diagnosis · pivot-style aggregation · IQR outlier detection · Pearson correlation · insight-to-impact translation
