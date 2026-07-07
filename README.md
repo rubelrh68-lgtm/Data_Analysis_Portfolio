@@ -21,7 +21,7 @@ Audited the raw dataset for missing values, duplicates, and format errors; resol
 Five-phase EDA: descriptive statistics, category breakdowns, 30-month trend, IQR outlier detection, and correlation — every finding passed through the "So What?" test.
 **Headline: 41.4% of all order value ends Cancelled or Returned (£519,674 at risk) — more than the business actually realises through completed orders.** Also: right-skewed order values (median £824 vs mean £1,054), flat ~£42K/month revenue, Instagram the strongest channel, coupons showing no effect on basket size.
 
-### [Project_3_SQL_Analysis](Project_3_SQL-Analysis) · SQL Server Management Studio
+### [Project_3_SQL_Analysis](Project_3_SQL_Analysis) · SQL Server Management Studio
 Re-derived the key findings in T-SQL — SELECT, WHERE, ORDER BY, GROUP BY, COUNT/SUM/AVG, and HAVING — against the imported `dbo.Orders` table, with SSMS execution evidence.
 **Result: 8 of 8 checks reconciled exactly with the Excel EDA — row counts, the returned-orders segment (247), the full top-10 order list, and the penny-exact product revenue ranking. Two tools, one truth.**
 
